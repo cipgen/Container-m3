@@ -77,4 +77,6 @@ sudo runc run demo
 new terminal  
 
 curl 192.168.0.2:8080  
+
+ https://asciinema.org/a/P6zI6LleMjfjV6oXujxSkhiIi  
  
