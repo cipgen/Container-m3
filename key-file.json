@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smiling-rhythm-404620",
+  "private_key_id": "e33b392ea63ac425758c08f7cc33b656acf36793",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSAYEKC/wrQmsc\nPruleAfsgrGYlMTwweLetLlh49RxFWlXbJsbLJxgngXNqqSVKHCJ4Zg6L3V2++dR\ntBDo8n49hmT+oWhve012f5ftm2U/pZCB48i7oP4+KfFGR5RGba+ZlfSTbLggViw4\nUfWX12B2HjvCXrYvL1Yr/3lKla/XDlOfUsrtzYw4JkGNeaoikFd+hwz1voeDuMHB\n4RO+Jw5llNZiPh9kmvTI4uYdVndXRsx9p2Gjix/EzGqhGABntPDfIpfUPMj2a7sa\nQoREUFS29lQaC8ECEIshKTUGADlOsG+jk7/Og9K5tuiPsmcakguAEfBZvibl7CW2\ndzh3BeKrAgMBAAECggEABa95TuLYlvanJRpsRC1AYb1VHRPt91IVe4aeEWnFxAGJ\ncJYSFCTQkhKVN0UF06kXeMcIHnvqnw+AGnZgkjGfKNYq6J9waabrhUnCqMX8U1Yn\nIme0UVobjGAlvQ7cf0GWLOzh8Tuyj8/LOQY4Agmo//B9czws6/lz6ZKxLm5VwpIF\nLIpnIS/wowa85J2CsxGoTwqZElL33Se2ENoY1GB3cSd59pyXWhG7aNrZ8jFQ0nH6\n2rCCANaGqTdu8Aj3vUHHEN82WgVmsFuZd7xYeBDLcQamOgpm+aTdVGTm89vBpRK0\nX901fAOeLWrOJ40zfZt7IgnkOEEX+AjIB70kRrjHAQKBgQDK4a2nHau78+FykuOu\n6aOL1Vuk3PZecLTwmbtVcdOdX3lvmR3FNuI1hChuif9ctfqOSDIW0+kbpbb6Hqj5\n8ySnkci8ckaDP3Bx14fda3YFltvVkgxrFcvoe9pGPn4/sBNKM3goR03+b1ALthpq\n0mBxnoebIgo/4W75bi81perM0QKBgQC4O65m3RDHJDsvvvWMawvBKHoKgxw0TAkc\niTwLffOPW0gHeqAnwUY9ziG1qkkosqwDKEfhjCtLkgiVemsJCnr8zFHo5s1F8IhY\nLHpuOqHIHxdb9EXau7uCa03LZIcKY5gvnOOurZ686gCV/iwk7Z0QGTY+iDkYqO2E\ngYsE1jdmuwKBgGy976zOG3lfa6xUjRL4ib9ueXNxN+BAusrnK2DN5OXKAbXONQW6\nuB6FGoK9FpFjvMs8aRSROrWl6eBARMPMDg5+9kADZEX+3880/c6xRY4TYPslD+Dp\nyuRuVf0mi9apEn3H/pRgO66vjRDp51jwL99WYErHQQUiWK/63fT8XFCxAoGBALKv\nF8Cmil5LEqiFUkylihoGsw89CH7kfDXUGIug1jhlNSAj2++S8hiBs4oppZk2acUK\nLWVheKBr+61WtTdolc5YMN1t9QvvdZ3nTbtZXI3nMdW6voGecQfWIPazApKd8/3B\n8cX6mKnrXzQa+B+84ge6HDVcE9yKAwvwRLAlQEh/AoGACpOsgdACO80qbwKgOSVi\nR9RkcqnLjR4NtaFaTKmIRFLq79nwbT0qL7c89EXJJZMjsYmAYo9DRvFS9DR7z1ZA\n5pb72hxKlVACwrPmwN2TQyPrKUqdS+gJN0iv9+JagnnVeHdwr/1pqYvpu3d/nnrK\n2OBi0c6JC43B/zpGIpNjA6w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kubernet@smiling-rhythm-404620.iam.gserviceaccount.com",
+  "client_id": "105599455894166446134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kubernet%40smiling-rhythm-404620.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
